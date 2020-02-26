@@ -1,0 +1,78 @@
+.main-menu ul.navbar-nav li.nav-item a.nav-link{
+    color:#707070f5;
+    font-weight: 500;
+}
+.main-menu ul.navbar-nav li.nav-item.active a.nav-link{
+    color:#707070;
+    font-weight: 600;
+}
+
+p{
+    color: #707070;
+}
+.carousel-caption{
+    text-align: left;
+}
+.carousel-caption h1{
+    color:#000000;
+}
+.btn-buy-now{
+    border: 1px solid #000;
+    background: black;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+.margin-bottom-50{
+    margin-bottom: 50px;
+}
+.margin-bottom-30{
+    margin-bottom:30px;
+}
+.production-section a{
+    text-decoration: none;
+    color: #FF9D00;
+    font-weight: 500;
+}
+.card {
+    text-align: center;
+    box-shadow: 0px 0px 10px lightgrey;
+    padding:30px;
+}
+.card-body p {
+    margin-bottom: 30px;
+}
+.card-body h5 {
+   font-size: 22px;
+}
+.card button.btn-buy-now{
+    margin-top: 20px;
+}
+.section-padding-80{
+    padding: 80px 0;
+}
+h2.section-title{
+    font-size: 35px;
+    margin-bottom: 60px;
+}
+img.single-category-styling {
+    width: 50%;
+}
+.single-category-styling img {
+    margin-bottom: 20px;
+}
+.single-category-styling {
+    width: 100%;
+    box-shadow: 0 0 10px lightgrey;
+    padding: 40px;
+    border-radius: 0px 10px 0px 20px;
+}
+
+.single-column-doule-category:first-child{
+    margin-bottom: 30px;
+    border-radius: 10px 0px 20px 0px;
+}
+.single-column-doule-category:last-child{
+    margin-top: 30px;
+}
+
